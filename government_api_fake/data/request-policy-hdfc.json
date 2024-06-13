@@ -1,0 +1,48 @@
+{
+    "txnId": "f7f1469c-29b0-4325-9dfc-c567200a70f7",
+    "format": "pdf",
+    "certificateParameters": {
+      "PolicyNo": "23112000401234360",
+      "MobileNo": "9960123456",
+      "DOB": "31-12-1980"
+    },
+    "consentArtifact": {
+      "consent": {
+        "consentId": "ea9c43aa-7f5a-4bf3-a0be-e1caa24737ba",
+        "timestamp": "2024-06-13T13:07:30.941Z",
+        "dataConsumer": {
+          "id": "string"
+        },
+        "dataProvider": {
+          "id": "string"
+        },
+        "purpose": {
+          "description": "string"
+        },
+        "user": {
+          "idType": "string",
+          "idNumber": "string",
+          "mobile": "string",
+          "email": "string"
+        },
+        "data": {
+          "id": "string"
+        },
+        "permission": {
+          "access": "string",
+          "dateRange": {
+            "from": "2024-06-13T13:07:30.941Z",
+            "to": "2024-06-13T13:07:30.941Z"
+          },
+          "frequency": {
+            "unit": "string",
+            "value": 0,
+            "repeats": 0
+          }
+        }
+      },
+      "signature": {
+        "signature": "string"
+      }
+    }
+  }

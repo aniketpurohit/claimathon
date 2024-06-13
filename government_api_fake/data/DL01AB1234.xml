@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Certificate language="99" name="Vehicle Registration" type="RVCER" number="DL01AB1234" issuedAt="New Delhi" issueDate="01-01-1980" validFromDate=" " expiryDate=" " status="A">
+	<IssuedBy>
+		<Organization name="" code="" tin="" uid="" type="CG">
+			<Address type="" line1="" line2="" house="" landmark="" locality="" vtc="" district="" pin="" state="" country="IN">
+			</Address>
+		</Organization>
+	</IssuedBy>
+	<IssuedTo>
+		<Person uid="" title="MR" name="ANAND KUMAR" dob="01-10-1988" swd="PRAMOD KUMAR" swdIndicator="S" gender="M" maritalStatus="" religion="" phone="7858XXX454" email="randomEmail@XYZ.com">
+			<Address line1="House no 90" line2="Sukunta Vihar" house="" landmark="null" locality="" vtc="" district="Delhi" pin="67575" state="Delhi" country="IN">
+				<type>permanent</type>
+			</Address>
+			<Photo format="string">
+			</Photo>
+		</Person>
+	</IssuedTo>
+	<CertificateData>
+		<VehicleRegistration statusDate="string" financer="string" normsDesc="SSCER">
+			<Insurance policyNo="POL1234" validTill="13-06-2024" companyName="HDFC ERGO">
+			</Insurance>
+			<Vehicle engineNo="1232342423" chasisNo="122232432432432" make="Car: Sedan" model="Civic" mfgDate="MfgDate: 13-06-2023" class="Unknown Type: object" color="" seatCapacity="string" standingCapacity="Unknown Type: object" sleeperCapacity="string" fuelDesc="fuelDesc: petrol" cylinder="Unknown Type: object" cubicCapacity="Unknown Type: object" unladenWeight="string" wheelbase="Unknown Type: object" fitTill="Unknown Type: object">
+			</Vehicle>
+		</VehicleRegistration>
+	</CertificateData>
+</Certificate>
